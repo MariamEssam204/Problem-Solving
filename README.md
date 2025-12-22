@@ -14,15 +14,15 @@ This repository contains my journey through competitive programming challenges.
 ## 📊 Progress Tracker
 
 ### LeetCode Stats
-![Easy](https://img.shields.io/badge/Easy-0-green?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-0-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
-![Total](https://img.shields.io/badge/Total-0-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-21-green?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-7-yellow?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-2-red?style=flat-square)
+![Total](https://img.shields.io/badge/Total-30-blue?style=flat-square)
 
 ### Codeforces Stats
-![Rating](https://img.shields.io/badge/Rating-0-brightgreen?style=flat-square)
-![Problems](https://img.shields.io/badge/Problems_Solved-0-blue?style=flat-square)
-![Contests](https://img.shields.io/badge/Contests-0-orange?style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-745-brightgreen?style=flat-square)
+![Problems](https://img.shields.io/badge/Problems_Solved-117-blue?style=flat-square)
+![Contests](https://img.shields.io/badge/Contests-9-orange?style=flat-square)
 
 ## 🎯 Goals
 
