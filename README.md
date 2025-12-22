@@ -41,9 +41,9 @@ While this is a personal learning repository, suggestions and optimizations are 
 
 ## 📫 Connect With Me
 
-- **LeetCode**: [https://leetcode.com/u/Mariam_Essam/](link)
-- **Codeforces**: [https://codeforces.com/profile/Mariam_Essam204](link)
-- **LinkedIn**: [https://www.linkedin.com/in/mariam-essam-ai-engineer/](link)
+- **LeetCode**: https://leetcode.com/u/Mariam_Essam/
+- **Codeforces**: https://codeforces.com/profile/Mariam_Essam204
+- **LinkedIn**: https://www.linkedin.com/in/mariam-essam-ai-engineer/
 - **Email**: mariamessam204@gmail.com
 
 ## 📜 License
