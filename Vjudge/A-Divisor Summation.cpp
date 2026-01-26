@@ -6,17 +6,17 @@
 #include <cmath>
 using namespace std;
 #define ll long long
-ll getDivisors(long long n) {
-    ll sum =0;
+set<long long> getDivisors(long long n) {
+    set<long long> divisors;
     for (long long i = 1; i * i <= n; i++) {
         if (n % i == 0) {
-            sum+=i;
-            if (i != n / i && n/i < n) {
-                sum+= ( n / i);
+            divisors.insert(i);
+            if (i != n / i) {
+                divisors.insert(n / i);
             }
         }
     }
-    return sum;
+    return divisors;
 }
 int main() {
     ios_base::sync_with_stdio(false);
@@ -24,8 +24,11 @@ int main() {
     ll t; cin>>t;
     while(t--){
         ll n; cin>>n;
-        ll sum = getDivisors(n);
-        
+        set<ll> divisors = getDivisors(n);
+        ll sum = -n;
+        for(auto x : divisors){
+            sum+= x;
+        }
         cout<<sum<<"\n";
     }
     return 0;
