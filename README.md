@@ -17,11 +17,11 @@ This repository contains my journey through competitive programming challenges.
 ![Easy](https://img.shields.io/badge/Easy-32-green?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-23-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-9-red?style=flat-square)
-![Total](https://img.shields.io/badge/Total-64-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-77-blue?style=flat-square)
 
 ### Codeforces Stats
 ![Rating](https://img.shields.io/badge/Rating-845-brightgreen?style=flat-square)
-![Problems](https://img.shields.io/badge/Problems_Solved-127-blue?style=flat-square)
+![Problems](https://img.shields.io/badge/Problems_Solved-143-blue?style=flat-square)
 ![Contests](https://img.shields.io/badge/Contests-12-orange?style=flat-square)
 
 ## 🎯 Goals
